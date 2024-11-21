@@ -1,1 +1,3 @@
 # IMY220-ST1
+
+All the code from IMY220 Assignments, Practicals and more...
